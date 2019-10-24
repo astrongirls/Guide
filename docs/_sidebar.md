@@ -46,8 +46,3 @@
 戦闘
   - [戦闘概要](battle1.md)
   - [戦争](battle2.md)
-  - [特殊任務](battle3.md)
-  - [討伐任務](battle4.md)
-  - [撃退任務](battle5.md)
-  - [戦闘システム](battle6.md)
-  - [保護システム](battle7.md)
