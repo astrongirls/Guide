@@ -17,4 +17,11 @@
   - [探査・占領](planet2.md)
     [惑星管理](planet3.md)
     [惑星施設](planet4.md)
-  
+
+英雄  
+  - [英雄概要](hero1.md)
+  - [英雄の雇用](hero2.md)
+  - [英雄の能力](hero3.md)
+  - [英雄の成長](hero4.md)
+  - [トロンシステム](hero5.md)
+       
