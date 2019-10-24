@@ -1,5 +1,5 @@
 
 - [Home](/)
-- Getting started
+- 惑星
   - [Guide](guide.md)
-  - [Test](test.md)
+  - [惑星概要](planet.md)
