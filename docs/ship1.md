@@ -13,7 +13,7 @@
 ゲーム序盤では、「デストロイヤー」の製作と運用が可能となっており、研究開発を進めていくことで「クルーザー」、「バトルシップ」、「マザーシップ」の製作と運用が可能になります。
 
 [デストロイヤー]
-|<img src="_images/a57.jpg" width="50%"> | <img src="_images/a58.jpg" width="50%">|
+|<img src="_images/a57.jpg" width="30%"> | <img src="_images/a58.jpg" width="30%">|
 | --- | --- |
 |   テラ連盟 |  ネオス連合  |
 |![](_images/a59.jpg)| ![](_images/a60.jpg) |
@@ -23,7 +23,7 @@
 中盤以降もその高い回避力を活かして、戦争を有利に進められる艦隊です。
 
 [クルーザー]
-|<img src="_images/a57.jpg" width="50%"> | <img src="_images/a58.jpg" width="50%">|
+|<img src="_images/a57.jpg" width="30%"> | <img src="_images/a58.jpg" width="30%">|
 | --- | --- |
 |   テラ連盟 |  ネオス連合 |
 |![](_images/a61.jpg)| ![](_images/a62.jpg) |
@@ -32,7 +32,7 @@
 特別な弱点がない艦隊です。
 
 [バトルシップ]
-|<img src="_images/a57.jpg" width="50%"> | <img src="_images/a58.jpg" width="50%">|
+|<img src="_images/a57.jpg" width="30%"> | <img src="_images/a58.jpg" width="30%">|
 | --- | --- |
 |  テラ連盟 |  ネオス連合 |
 |![](_images/a63.jpg)| ![](_images/a64.jpg) |
@@ -41,7 +41,7 @@
 攻撃力は強大ですが、マザーシップよりは耐久力が低いです。
 
 [マザーシップ]
-|<img src="_images/a57.jpg" width="50%"> | <img src="_images/a58.jpg" width="50%">|
+|<img src="_images/a57.jpg" width="30%"> | <img src="_images/a58.jpg" width="30%">|
 | --- | --- |
 |  テラ連盟 |  ネオス連合 |
 |![](_images/a65.jpg)| ![](_images/a66.jpg) |
