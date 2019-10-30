@@ -58,4 +58,5 @@
 
 [トロン装着画面]
 
-<img src="_images/a53.jpg" width="45%"> <img src="_images/a54.jpg" width="45%">
+<img src="_images/24.png" width="50%"><img src="_images/25.png" width="45%"> 
+<img src="_images/26.png" width="50%">

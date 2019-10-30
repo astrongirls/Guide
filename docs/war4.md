@@ -3,7 +3,7 @@
 アストロアンドガールズで最も重要な要素は、
 
 「戦争」で勝利して敵陣営より多くのコスメントを確保し、新型の艦隊と装備で武装することです。
-<img src="_images/af.jpg" width="45%"> <img src="_images/ag.jpg" width="45%">
+<img src="_images/10.png" width="45%"> <img src="_images/11.png" width="45%">
 
 戦争は、『コスメント』（ラオン、セクチュム、ニューゼン）をめぐって、両陣営が繰り広げる争いです。
 

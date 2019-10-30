@@ -12,4 +12,4 @@
 
 国力を高め、高ランキングを達成すれば、称号とともに報酬を得ることができます。
 
-<img src="_images/ab.jpg" width="20%"><img src="_images/ac.jpg" width="20%"><img src="_images/ad.jpg" width="20%"><img src="_images/ae.jpg" width="20%">
+<img src="_images/10.png" width="50%"><img src="_images/11.png" width="50%"><img src="_images/13.png" width="50%"><img src="_images/14.png" width="50%">

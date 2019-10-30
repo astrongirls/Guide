@@ -9,7 +9,7 @@
 
 [英雄雇用画面]
 
-<img src="_images/a37.jpg" width="20%"> <img src="_images/a38.jpg" width="20%"> <img src="_images/a39.jpg" width="20%"> <img src="_images/a40.jpg" width="20%">
+<img src="_images/27.png" width="50%"><img src="_images/28.png" width="50%"> <img src="_images/29.png" width="50%"><img src="_images/30.png" width="50%">
 
 # 一般雇用
 12時間ごとに、新しい英雄があなたの元にやってきます。
@@ -87,14 +87,6 @@ N～Rランクの英雄が主に訪れ、時折R+ランクの英雄がやって�
 
 スカウトポイントを300点以上貯めると、そのポイントでSR+ランク英雄を招待することができます。
 （使用した分のポイントは差し引かれます）
-
-[英雄の雇用費用]
-
-|英雄等級| ![](_images/a46.jpg) | ![](_images/a47.jpg) | ![](_images/a48.jpg) | ![](_images/a49.jpg) | ![](_images/a50.jpg)
-| --- | --- | --- | --- | --- | --- |
-| ![](_images/a51.jpg) | 1,000 | 4,000 | 16,000 | 64,000 | 256,000
-| 雇用費用(ゴールド) |
-
 
 # スカウトおよび解雇
 英雄チケットを使用し、英雄を雇用することができます。
