@@ -21,28 +21,6 @@
 ![](_images/18.png)
 
 
-| 候補生 | |   |  |   
-| --- | --- | --- | --- |
-| ![](_images/a1.jpg) | ![](_images/a2.jpg) | ![](_images/a3.jpg) |![](_images/a4.jpg) |
-
-
-
-| 武器特化英雄 | |   |  |   |   |
-| --- | --- | --- | --- | --- |  --- |
-|![](_images/a5.jpg) | ![](_images/a6.jpg) | ![](_images/a7.jpg) |![](_images/a8.jpg) | ![](_images/a9.jpg) |
-| ![](_images/a10.jpg) | ![](_images/a11.jpg) | ![](_images/a12.jpg) | ![](_images/a13.jpg) | ![](_images/a14.jpg) | ![](_images/a15.jpg) |
-
-
-| 艦体特化英雄 | |   |  |   | 
-| --- | --- | --- | --- | --- | 
-|![](_images/a16.jpg) | ![](_images/a17.jpg) | ![](_images/a18.jpg) | ![](_images/a19.jpg) | ![](_images/a20.jpg)|
-|![](_images/a21.jpg) | ![](_images/a22.jpg) | ![](_images/a23.jpg) | ![](_images/a24.jpg) | ![](_images/a25.jpg) |
-| ![](_images/a26.jpg) | ![](_images/a27.jpg) | ![](_images/a28.jpg) | ![](_images/a29.jpg)
-
-
-| 惑星長官 | |   |  |   | 
-| --- | --- | --- | --- | --- | 
-|![](_images/a30.jpg) | ![](_images/a31.jpg) | ![](_images/a32.jpg) | ![](_images/a33.jpg) | ![](_images/a34.jpg) |
 
 # 英雄の等級
 

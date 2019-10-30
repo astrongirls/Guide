@@ -38,7 +38,7 @@
 |<img src="_images/a57.jpg" width="30%"> | <img src="_images/a58.jpg" width="30%">|
 | --- | --- |
 |  テラ連盟 |  ネオス連合 |
-|!<img src="_images/a63.jpg" width="60%">| !<img src="_images/a64.jpg" width="60%"> |
+|<img src="_images/a63.jpg" width="60%">| <img src="_images/a64.jpg" width="60%"> |
 
 バトルシップは強力な攻撃力を持つ艦隊で、ゲーム後半で主力艦隊として活用できます。
 攻撃力は強大ですが、マザーシップよりは耐久力が低いです。
@@ -48,7 +48,7 @@
 |<img src="_images/a57.jpg" width="30%"> | <img src="_images/a58.jpg" width="30%">|
 | --- | --- |
 |  テラ連盟 |  ネオス連合 |
-|!<img src="_images/a65.jpg" width="60%">| !<img src="_images/a66.jpg" width="60%"> |
+|<img src="_images/a65.jpg" width="60%">|<img src="_images/a66.jpg" width="60%"> |
 
 マザーシップは高い耐久力と攻撃力を持つ艦隊で、ゲーム後半に主力艦隊として活用できます。
 運用コストが高いため、大規模編成には向いていません。
