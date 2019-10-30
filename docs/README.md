@@ -70,3 +70,26 @@
 (1) [戦闘概要](https://astrongirls.github.io/Guide/#/battle1)
 
 (2) [戦争](https://astrongirls.github.io/Guide/#/battle2)
+
+(3) [特殊任務](https://astrongirls.github.io/Guide/#/battle3)
+
+(4) [討伐任務](https://astrongirls.github.io/Guide/#/battle4)
+
+(5) [撃退任務](https://astrongirls.github.io/Guide/#/battle5)
+
+(6) [戦闘システム](https://astrongirls.github.io/Guide/#/battle6)
+
+(7) [保護システム](https://astrongirls.github.io/Guide/#/battle7)
+
+# 8. その他
+(1) [ショップ](https://astrongirls.github.io/Guide/#/etc1)
+
+(2) [称号システム](https://astrongirls.github.io/Guide/#/etc2)
+
+(3) [同盟システム](https://astrongirls.github.io/Guide/#/etc3)
+
+(4) [ミッション](https://astrongirls.github.io/Guide/#/etc4)
+
+(5) [倉庫](https://astrongirls.github.io/Guide/#/etc5)
+
+(6) [受信トレイ](https://astrongirls.github.io/Guide/#/etc6)
