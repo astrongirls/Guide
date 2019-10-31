@@ -42,10 +42,12 @@
   - [戦闘概要](battle1.md)
   - [戦争](battle2.md)
   - [特殊任務](battle3.md)
-  - [討伐任務](battle4.md)
-  - [撃退任務](battle5.md)
-  - [戦闘システム](battle6.md)
-  - [保護システム](battle7.md)
+  - [撃退任務](battle4.md)
+  - [征服](battle5.md)
+  - [リーグ](battle6.md)
+  - [討伐任務](battle7.md)
+  - [戦闘進行](battle8.md)
+  - [保護システム](battle9.md)
 
   **その他**
   - [ショップ](etc1.md)
