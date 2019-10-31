@@ -86,6 +86,7 @@
 (9) [保護システム](https://astrongirls.github.io/Guide/#/battle9)
 
 # 8. その他
+
 (1) [ショップ](https://astrongirls.github.io/Guide/#/etc1)
 
 (2) [称号システム](https://astrongirls.github.io/Guide/#/etc2)
