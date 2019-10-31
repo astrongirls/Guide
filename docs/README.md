@@ -73,13 +73,17 @@
 
 (3) [特殊任務](https://astrongirls.github.io/Guide/#/battle3)
 
-(4) [討伐任務](https://astrongirls.github.io/Guide/#/battle4)
+(4) [撃退任務](https://astrongirls.github.io/Guide/#/battle4)
 
-(5) [撃退任務](https://astrongirls.github.io/Guide/#/battle5)
+(5) [征服](https://astrongirls.github.io/Guide/#/battle5)
 
-(6) [戦闘システム](https://astrongirls.github.io/Guide/#/battle6)
+(6) [リーグ](https://astrongirls.github.io/Guide/#/battle6)
 
-(7) [保護システム](https://astrongirls.github.io/Guide/#/battle7)
+(7) [討伐任務](https://astrongirls.github.io/Guide/#/battle7)
+
+(8) [戦闘進行](https://astrongirls.github.io/Guide/#/battle8)
+
+(9) [保護システム](https://astrongirls.github.io/Guide/#/battle9)
 
 # 8. その他
 (1) [ショップ](https://astrongirls.github.io/Guide/#/etc1)
