@@ -6,7 +6,7 @@
 
 コラボ専用特殊任務を征服任務を通じて開催することもあります。
 
-<img src="_images/61.jpg" width="100%">
+<img src="_images/캡처.jpg" width="100%">
 
 # 征服地域
 
